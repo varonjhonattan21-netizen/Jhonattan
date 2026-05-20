@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/varonjhonattan21-netizen/varonjhonattan21-netizen/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/varonjhonattan21-netizen/Jhonattan/refs/heads/main/snake%20(1).svg" alt="Snake animation" />
 
 ###
 
